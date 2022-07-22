@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Github on SEMS博客</title>
+        <link>https://blog.makeuw.com/tags/github/</link>
+        <description>Recent content in Github on SEMS博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.makeuw.com/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>基于Hugo和Github打造个人博客</title>
+        <link>https://blog.makeuw.com/p/%E5%9F%BA%E4%BA%8Ehugo%E5%92%8Cgithub%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.makeuw.com/p/%E5%9F%BA%E4%BA%8Ehugo%E5%92%8Cgithub%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;img src="https://blog.makeuw.com/testcover.jpg" alt="Featured image of post 基于Hugo和Github打造个人博客" /&gt;&lt;h6 id=&#34;文章中可能有疏忽错误的地方请务必自行查找资料对比&#34;&gt;文章中可能有疏忽错误的地方。请务必自行查找资料对比！！！&lt;/h6&gt;
+&lt;h1 id=&#34;基础概念&#34;&gt;基础概念&lt;/h1&gt;
+&lt;h2 id=&#34;hugohttpsgohugoio---开源静态站点生成器&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;HUGO&lt;/a&gt; - 开源静态站点生成器&lt;/h2&gt;
+&lt;p&gt;HUGO是一个开源的基于GO语言的静态站点生成器，常用在Github pages的静态页面生成或者是各种文档的说明，支持MarkDown语法。 Hugo的主题也比较丰富，官网上有不少可选的，除了博客还有其他例如官网等的不同用途
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo-github&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/documentation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo官方文档&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo官网主题&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;githubhttpsgithubcom---全世界最大的同性交友网站&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt; - 全世界最大的同性交友网站&lt;/h2&gt;
+&lt;h3 id=&#34;施工中&#34;&gt;施工中&amp;hellip;&lt;/h3&gt;
+&lt;h2 id=&#34;hugo-theme-stackhttpsthemesgohugoiothemeshugo-theme-stack---hugo博客主题&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/themes/hugo-theme-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo theme Stack&lt;/a&gt; - Hugo博客主题&lt;/h2&gt;
+&lt;h3 id=&#34;施工中-1&#34;&gt;施工中&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Hugo theme Stack官方文档:&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;中文&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;英文&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
