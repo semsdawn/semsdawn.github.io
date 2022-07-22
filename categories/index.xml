@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on SEMS BLOG</title>
+        <link>https://semsdawn.github.io/categories/</link>
+        <description>Recent content in Categories on SEMS BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://semsdawn.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>测试博客</title>
+        <link>https://semsdawn.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://semsdawn.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Example Category</title>
+        <link>https://semsdawn.github.io/categories/example-category/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://semsdawn.github.io/categories/example-category/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

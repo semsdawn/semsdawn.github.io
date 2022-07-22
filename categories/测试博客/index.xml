@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>测试博客 on SEMS BLOG</title>
+        <link>https://semsdawn.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</link>
+        <description>Recent content in 测试博客 on SEMS BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://semsdawn.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo主题Stack的文章模板介绍</title>
+        <link>https://semsdawn.github.io/p/test-post/</link>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://semsdawn.github.io/p/test-post/</guid>
+        <description>&lt;img src="https://semsdawn.github.io/p/test-post/cover.jpg" alt="Featured image of post Hugo主题Stack的文章模板介绍" /&gt;&lt;h2 id=&#34;基础介绍&#34;&gt;基础介绍&lt;/h2&gt;
+&lt;p&gt;这里使用了Hugo主题Stack的快速开始模板，模板内自带了一篇Hello-world文章，但里面只有基础的框架，所以我找到了Stack的官方文章一边参考一边修改。&lt;/p&gt;
+&lt;p&gt;Hugo theme Stack官方文档:&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;中文-https://docs.stack.jimmycai.com/zh/&lt;/a&gt;&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;英文-https://docs.stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;=title: &amp;ldquo;测试文章&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;=description: &amp;ldquo;这是一篇测试文章的简介&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;=date: 2022-07-22 00:00:00+0000&lt;/p&gt;
+&lt;p&gt;=slug: &amp;ldquo;test-post&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;=image: cover.jpg&lt;/p&gt;
+&lt;p&gt;=categories:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 测试博客
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;=tags:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Hugo
+- Stack
+- test
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://semsdawn.github.io/p/test-post/cover.jpg&#34;
+	width=&#34;1000&#34;
+	height=&#34;667&#34;
+	srcset=&#34;https://semsdawn.github.io/p/test-post/cover_hu8751d526ab7c135b4830d658d86acdb6_153885_480x0_resize_q75_box.jpg 480w, https://semsdawn.github.io/p/test-post/cover_hu8751d526ab7c135b4830d658d86acdb6_153885_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
